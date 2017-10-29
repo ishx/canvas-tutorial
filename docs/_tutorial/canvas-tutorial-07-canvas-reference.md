@@ -34,9 +34,9 @@ Element | ![alt-text][chrome] | ![alt-text][edge] | ![alt-text][firefox] | ![alt
 
 [opera]: assets/img/compatible_opera.gif "Opera"
 
-Internet Explorer 9, Firefox, Opera, Chrome, and Safari support <canvas> and its properties and methods.
+Internet Explorer 9, Firefox, Opera, Chrome, and Safari support `<canvas>` and its properties and methods.
 
-**Note:** Internet Explorer 8 and earlier versions, do not support the <canvas> element.
+**Note:** Internet Explorer 8 and earlier versions, do not support the `<canvas>` element.
 
 ## Colors, Styles, and Shadows
 
